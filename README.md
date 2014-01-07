@@ -15,5 +15,5 @@ $ mrt add feedparser
 ```
 ## Usage
 
-Instructions for using Feedparser are [here](https://github.com/danmactough/node-feedparser/blob/master/README.md).
+Instructions for using Feedparser are [here](https://github.com/danmactough/node-feedparser/blob/master/README.md#usage).
 Simply instantiate a Feedparser object in your project begin using it.
