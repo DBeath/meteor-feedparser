@@ -3,6 +3,6 @@
 	"description": "Meteor wrapper for Feedparser - Robust RSS, Atom, and RDF feed parsing in Node.js",
 	"homepage": "https://github.com/DBeath/meteor-feedparser",
 	"author": "David Beath",
-	"version": "0.16.3",
+	"version": "0.16.6",
 	"git": "https://github.com/DBeath/meteor-feedparser.git"
 }
